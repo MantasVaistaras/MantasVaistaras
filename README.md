@@ -40,4 +40,6 @@
 
 <img src="https://raw.githubusercontent.com/MantasVaistaras/MantasVaistaras/output/snake.svg" alt="Snake animation" />
 
+Contact email: mantasvaist@gmail.com
+
 </div>
